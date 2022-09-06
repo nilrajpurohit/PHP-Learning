@@ -1,0 +1,57 @@
+PHP created by Rasmus Lerdorf in 1994
+PHP appeard in the market in 1995
+PHP stands for Hypertext Preprocessor.
+PHP is an interpreted language, i.e., there is no need for compilation.
+PHP is faster than other scripting languages, for example, ASP and JSP.
+PHP is a server-side scripting language, which is used to manage the dynamic content of the website.
+PHP can be embedded into HTML.
+PHP is an object-oriented language.
+PHP is an open-source scripting language.
+PHP is simple and easy to learn language.
+
+
+Why use PHP ?
+PHP is a server-side scripting language, which is used to design the dynamic web applications with MySQL database.
+It handles dynamic content, database as well as session tracking for the website.
+You can create sessions in PHP.
+It can access cookies variable and also set cookies.
+It helps to encrypt the data and apply validation.
+PHP supports several protocols such as HTTP, POP3, SNMP, LDAP, IMAP, and many more.
+Using PHP language, you can control the user to access some pages of your website.
+As PHP is easy to install and set up, this is the main reason why PHP is the best language to learn.
+PHP can handle the forms, such as - collect the data from users using forms, save it into the database, and return useful information to the user. For example - Registration form.
+
+
+PHP Features: 
+Performance:
+Open Source:
+Familiarity with syntax:
+Embedded:
+Platform Independent:
+Database Support:
+Error Reporting:
+Loosely Typed Language:
+Web servers Support:
+Security:
+Control:
+A Helpful PHP Community:
+Case Sensative:
+
+
+Difference between echo and print
+
+echo
+
+echo is a statement, which is used to display the output.
+echo can be used with or without parentheses.
+echo does not return any value.
+We can pass multiple strings separated by comma (,) in echo.
+echo is faster than print statement.
+
+print
+
+print is also a statement, used as an alternative to echo at many times to display the output.
+print can be used with or without parentheses.
+print always returns an integer value, which is 1.
+Using print, we cannot pass multiple arguments.
+print is slower than echo statement.
